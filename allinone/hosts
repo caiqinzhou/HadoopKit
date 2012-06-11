@@ -1,0 +1,24 @@
+# Do not remove the following line, or various programs
+# that require network functionality will fail.
+127.0.0.1               localhost.localdomain localhost
+::1             localhost6.localdomain6 localhost6
+
+
+######## Hadoop Cluster #########
+10.2.1.8    vs12053022ljeb
+10.2.1.8	nn8.mynet.com
+10.2.1.9	snn9.mynet.com 
+10.2.1.10	dn10.mynet.com
+10.2.1.30	dn30.mynet.com
+10.2.1.51	dn51.mynet.com
+10.2.1.52	dn52.mynet.com
+10.2.1.53	dn53.mynet.com
+
+10.2.1.8        nn8
+10.2.1.9        snn9
+10.2.1.10       dn10
+10.2.1.30       dn30
+10.2.1.51       dn51
+10.2.1.52       dn52
+10.2.1.53       dn53
+###### End Hadoop Cluster #######
