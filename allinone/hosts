@@ -13,6 +13,7 @@
 10.2.1.51	dn51.mynet.com
 10.2.1.52	dn52.mynet.com
 10.2.1.53	dn53.mynet.com
+10.2.1.77	namenode.mynet.com
 
 10.2.1.8        nn8
 10.2.1.9        snn9
@@ -21,4 +22,5 @@
 10.2.1.51       dn51
 10.2.1.52       dn52
 10.2.1.53       dn53
+10.2.1.77	namenode
 ###### End Hadoop Cluster #######

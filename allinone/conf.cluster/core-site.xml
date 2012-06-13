@@ -4,8 +4,8 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
-<property>
-<name>fs.default.name</name>
-<value>hdfs://nn8.mynet.com:8020</value>
-</property>
+	<property>
+		<name>fs.default.name</name>
+		<value>hdfs://namenode.mynet.com:8020</value>
+	</property>
 </configuration>
