@@ -1,7 +1,7 @@
 allinone
 =========
 
-allinone tool is a simple to setup hadoop cluster quickly.
+allinone tool is a simple tool to setup hadoop cluster quickly.
 
 Base dir /root/allinone
 
