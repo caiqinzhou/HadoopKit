@@ -4,7 +4,7 @@ bin=`dirname "$0"`
 bin=`cd "$bin"; pwd`
 . $bin/install-config.sh
 
-yum -y install yum-utils createrepo
+yum -y install httpd yum-utils createrepo
 
 mkdir -p $FH_HADOOP_YUM
 cd $FH_HADOOP_YUM

@@ -9,7 +9,11 @@ echo "Usage: runcluster.sh <command>"
 exit 1
 fi
 
-$bin/runslaves.sh $@
 
-echo "###### Execute command on localhost"
-$@
+for khost in `cat $FH_BASE_DIR/deploy-hosts`
+do
+echo "###### Execute command on $khost"
+ssh $khost $@
+
+done
+

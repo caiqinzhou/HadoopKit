@@ -5,22 +5,10 @@
 
 
 ######## Hadoop Cluster #########
-10.2.1.8    vs12053022ljeb
-10.2.1.8	nn8.mynet.com
-10.2.1.9	snn9.mynet.com 
-10.2.1.10	dn10.mynet.com
-10.2.1.30	dn30.mynet.com
-10.2.1.51	dn51.mynet.com
-10.2.1.52	dn52.mynet.com
-10.2.1.53	dn53.mynet.com
-10.2.1.77	namenode.mynet.com
 
-10.2.1.8        nn8
-10.2.1.9        snn9
-10.2.1.10       dn10
-10.2.1.30       dn30
-10.2.1.51       dn51
-10.2.1.52       dn52
-10.2.1.53       dn53
-10.2.1.77	namenode
+10.2.1.3        vs12082022iong
+10.2.3.4        vs12082116clka
+10.2.3.5        vs12082116ilde
+10.2.1.3        namenode.mynet.com
+
 ###### End Hadoop Cluster #######
